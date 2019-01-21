@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.restx</groupId>
+  <artifactId>restx-md-testing</artifactId>
+  <versioning>
+    <versions>
+      <version>0.36-TS-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190121231107</lastUpdated>
+  </versioning>
+</metadata>
